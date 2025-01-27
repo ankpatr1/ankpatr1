@@ -72,7 +72,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ankpatr1" alt="ankpatr1" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ankpatr1&title=Intermediate%20Developer" alt="Intermediate Developer Trophies" />
   </a>
 </p>
 <br><br>
@@ -80,3 +80,4 @@
   <img src="https://komarev.com/ghpvc/?username=ankpatr1&label=Profile%20views&color=0e75b6&style=flat" alt="ankpatr1" />
 </p>
 <p align="center">
+
