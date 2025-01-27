@@ -22,9 +22,6 @@
   <a href="https://x.com/Ankita_Patra06" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="X (Twitter)" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/Ankita_0697/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="LeetCode" height="30" width="40" />
-  </a>
 </p>
 
 
