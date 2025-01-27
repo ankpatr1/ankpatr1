@@ -11,11 +11,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ankitapatra1997/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitapatra1997" height="30" width="40" /></a>
-<a href="https://github.com/ankpatr1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ankpatr1" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ankita_patra06?igsh=MW42MHIwNnRsZXEwYQ%3D%3D&utm_source=qr" target="blank">📷 Instagram</a>
-<a href="https://x.com/Ankita_Patra06" target="blank">🐦 X (Twitter)</a>
-<a href="https://leetcode.com/u/Ankita_0697/" target="blank">🤖 LeetCode</a>
+  <a href="https://www.linkedin.com/in/ankitapatra1997/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://github.com/ankpatr1" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/ankita_patra06?igsh=MW42MHIwNnRsZXEwYQ%3D%3D&utm_source=qr" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://x.com/Ankita_Patra06" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="X (Twitter)" height="30" width="40" />
+  </a>
 </p>
 <br><br>
 
