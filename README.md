@@ -8,6 +8,26 @@
 - 📄 Know about my experiences in my <a href="https://www.linkedin.com/in/ankitapatra1997/overlay/1735247651983/single-media-viewer/?profileId=ACoAABmXYtwB-oQ-TR5OOPm5Xyi0iWGUFu_9j_g" target="_blank">resume</a>  
 <br><br>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ankitapatra1997/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://github.com/ankpatr1" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/ankita_patra06?igsh=MW42MHIwNnRsZXEwYQ%3D%3D&utm_source=qr" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://x.com/Ankita_Patra06" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="X (Twitter)" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/Ankita_0697/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+</p>
+
+
 <h3 align="left">Skills:</h3>
 <ul>
   <li><b>Operating Systems:</b> Linux, Windows</li>
