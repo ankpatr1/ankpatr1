@@ -5,8 +5,9 @@
 - 🌱 I’m currently exploring **Software Development, AI-driven solutions, and cloud integrations**  
 - 👯 I’m looking to collaborate on **Software Development, DevOps, Cloud, and AI Projects**  
 - 📫 How to reach me: **apatra@binghamton.edu**  
-- 📄 Know about my experiences in my <a href="[https://www.linkedin.com/in/ankitapatra1997/overlay/1735247651983/single-media-viewer/?profileId=ACoAABmXYtwB-oQ-TR5OOPm5Xyi0iWGUFu_9j_g](https://drive.google.com/file/d/10qR86e-b4NLdY3wgVQ1seJIDAy589GWd/view?usp=sharing)" target="_blank">resume</a>  
+- 📄 Know about my experiences in my <a href="https://drive.google.com/file/d/10qR86e-b4NLdY3wgVQ1seJIDAy589GWd/view?usp=sharing" target="_blank">resume</a>
 <br><br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
