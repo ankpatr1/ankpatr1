@@ -163,6 +163,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankpatr1&theme=dark" alt="ankpatr1" /></p><br><br>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankpatr1&theme=gotham)
+
 ### 🏆 GitHub Trophies
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankpatr1" alt="ankpatr1" /></a> </p><br><br>
