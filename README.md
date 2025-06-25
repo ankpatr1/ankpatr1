@@ -2,6 +2,9 @@
 <h3 align="center">A passionate Software Development Engineer and AI Enthusiast.</h3>
 <br>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ankpatr1&label=Profile%20views&color=0e75b6&style=flat" alt="ankpatr1" /> </p>
+<p align="center">
+
 
 - 🎓 MS in CS (AI Track)@ State University new york at Binghamton (Graduating Dec 2025)
 - 💼 **Ex-IBMer | Ex-CGIan | Ex-TCSer** |  **5.5+** years of experience 
@@ -163,6 +166,5 @@
 ### 🏆 GitHub Trophies
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankpatr1" alt="ankpatr1" /></a> </p><br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankpatr1&label=Profile%20views&color=0e75b6&style=flat" alt="ankpatr1" /> </p>
-<p align="center">
+
 
