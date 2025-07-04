@@ -167,6 +167,4 @@
 
 ### 🏆 GitHub Trophies
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankpatr1" alt="ankpatr1" /></a> </p><br><br>
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ankpatr1&theme=onedark)](https://github.com/ankpatr1/github-profile-trophy)
