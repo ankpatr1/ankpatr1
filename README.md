@@ -168,3 +168,9 @@
 ### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ankpatr1&theme=onedark)](https://github.com/ankpatr1/github-profile-trophy)
+
+##  Medium Publish: 
+
+🎬 SDLC Workflow: https://apatr1.medium.com/a-visual-stage-by-stage-guide-to-the-modern-sde-workflow-48ee76f8e195
+
+
